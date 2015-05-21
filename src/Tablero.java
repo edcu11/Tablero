@@ -26,149 +26,84 @@ public class Tablero extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        Btn_Tablero8 = new javax.swing.JButton();
-        Btn_Tablero9 = new javax.swing.JButton();
-        Btn_Tablero10 = new javax.swing.JButton();
-        Btn_Tablero11 = new javax.swing.JButton();
-        Btn_Tablero12 = new javax.swing.JButton();
-        Btn_Tablero7 = new javax.swing.JButton();
-        Btn_Tablero2 = new javax.swing.JButton();
-        Btn_Tablero3 = new javax.swing.JButton();
-        Btn_Tablero4 = new javax.swing.JButton();
-        Btn_Tablero5 = new javax.swing.JButton();
-        Btn_Tablero6 = new javax.swing.JButton();
-        Btn_Tablero1 = new javax.swing.JButton();
-        Btn_Tablero20 = new javax.swing.JButton();
-        Btn_Tablero21 = new javax.swing.JButton();
-        Btn_Tablero22 = new javax.swing.JButton();
-        Btn_Tablero23 = new javax.swing.JButton();
-        Btn_Tablero24 = new javax.swing.JButton();
-        Btn_Tablero19 = new javax.swing.JButton();
-        Btn_Tablero14 = new javax.swing.JButton();
-        Btn_Tablero15 = new javax.swing.JButton();
-        Btn_Tablero16 = new javax.swing.JButton();
-        Btn_Tablero17 = new javax.swing.JButton();
-        Btn_Tablero18 = new javax.swing.JButton();
-        Btn_Tablero13 = new javax.swing.JButton();
-        Btn_Tablero32 = new javax.swing.JButton();
-        Btn_Tablero33 = new javax.swing.JButton();
-        Btn_Tablero34 = new javax.swing.JButton();
-        Btn_Tablero35 = new javax.swing.JButton();
-        Btn_Tablero36 = new javax.swing.JButton();
-        Btn_Tablero31 = new javax.swing.JButton();
-        Btn_Tablero26 = new javax.swing.JButton();
-        Btn_Tablero27 = new javax.swing.JButton();
-        Btn_Tablero28 = new javax.swing.JButton();
-        Btn_Tablero29 = new javax.swing.JButton();
-        Btn_Tablero30 = new javax.swing.JButton();
-        Btn_Tablero25 = new javax.swing.JButton();
         L_Turno = new javax.swing.JLabel();
         Btn_Turno = new javax.swing.JButton();
+        jToggleButton1 = new javax.swing.JToggleButton();
+        jToggleButton2 = new javax.swing.JToggleButton();
+        jToggleButton3 = new javax.swing.JToggleButton();
+        jToggleButton4 = new javax.swing.JToggleButton();
+        jToggleButton5 = new javax.swing.JToggleButton();
+        jToggleButton6 = new javax.swing.JToggleButton();
+        jToggleButton7 = new javax.swing.JToggleButton();
+        jToggleButton8 = new javax.swing.JToggleButton();
+        jToggleButton9 = new javax.swing.JToggleButton();
+        jToggleButton10 = new javax.swing.JToggleButton();
+        jToggleButton11 = new javax.swing.JToggleButton();
+        jToggleButton12 = new javax.swing.JToggleButton();
+        L_Turno1 = new javax.swing.JLabel();
+        jToggleButton13 = new javax.swing.JToggleButton();
+        jToggleButton14 = new javax.swing.JToggleButton();
+        jToggleButton15 = new javax.swing.JToggleButton();
+        jToggleButton16 = new javax.swing.JToggleButton();
+        jToggleButton17 = new javax.swing.JToggleButton();
+        jToggleButton18 = new javax.swing.JToggleButton();
+        jToggleButton19 = new javax.swing.JToggleButton();
+        jToggleButton20 = new javax.swing.JToggleButton();
+        jToggleButton21 = new javax.swing.JToggleButton();
+        jToggleButton22 = new javax.swing.JToggleButton();
+        jToggleButton23 = new javax.swing.JToggleButton();
+        jToggleButton24 = new javax.swing.JToggleButton();
+        jToggleButton25 = new javax.swing.JToggleButton();
+        jToggleButton26 = new javax.swing.JToggleButton();
+        jToggleButton27 = new javax.swing.JToggleButton();
+        jToggleButton28 = new javax.swing.JToggleButton();
+        jToggleButton29 = new javax.swing.JToggleButton();
+        jToggleButton30 = new javax.swing.JToggleButton();
+        jToggleButton31 = new javax.swing.JToggleButton();
+        jToggleButton32 = new javax.swing.JToggleButton();
+        jToggleButton33 = new javax.swing.JToggleButton();
+        jToggleButton34 = new javax.swing.JToggleButton();
+        jToggleButton35 = new javax.swing.JToggleButton();
+        jToggleButton36 = new javax.swing.JToggleButton();
+        jToggleButton37 = new javax.swing.JToggleButton();
+        jToggleButton38 = new javax.swing.JToggleButton();
+        jToggleButton39 = new javax.swing.JToggleButton();
+        jToggleButton40 = new javax.swing.JToggleButton();
+        jToggleButton41 = new javax.swing.JToggleButton();
+        jToggleButton42 = new javax.swing.JToggleButton();
+        jToggleButton43 = new javax.swing.JToggleButton();
+        jToggleButton44 = new javax.swing.JToggleButton();
+        jToggleButton45 = new javax.swing.JToggleButton();
+        jToggleButton46 = new javax.swing.JToggleButton();
+        jToggleButton47 = new javax.swing.JToggleButton();
+        jToggleButton48 = new javax.swing.JToggleButton();
+        jToggleButton49 = new javax.swing.JToggleButton();
+        jToggleButton50 = new javax.swing.JToggleButton();
+        jToggleButton51 = new javax.swing.JToggleButton();
+        jToggleButton52 = new javax.swing.JToggleButton();
+        jToggleButton53 = new javax.swing.JToggleButton();
+        jToggleButton54 = new javax.swing.JToggleButton();
+        jToggleButton55 = new javax.swing.JToggleButton();
+        jToggleButton56 = new javax.swing.JToggleButton();
+        jToggleButton57 = new javax.swing.JToggleButton();
+        jToggleButton58 = new javax.swing.JToggleButton();
+        jToggleButton59 = new javax.swing.JToggleButton();
+        jToggleButton60 = new javax.swing.JToggleButton();
+        jToggleButton61 = new javax.swing.JToggleButton();
+        jToggleButton62 = new javax.swing.JToggleButton();
+        jToggleButton63 = new javax.swing.JToggleButton();
+        jToggleButton64 = new javax.swing.JToggleButton();
+        jToggleButton65 = new javax.swing.JToggleButton();
+        jToggleButton66 = new javax.swing.JToggleButton();
+        jToggleButton67 = new javax.swing.JToggleButton();
+        jToggleButton68 = new javax.swing.JToggleButton();
+        jToggleButton69 = new javax.swing.JToggleButton();
+        jToggleButton70 = new javax.swing.JToggleButton();
+        jToggleButton71 = new javax.swing.JToggleButton();
+        jToggleButton72 = new javax.swing.JToggleButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(null);
-
-        Btn_Tablero8.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                Btn_Tablero8ActionPerformed(evt);
-            }
-        });
-        getContentPane().add(Btn_Tablero8);
-        Btn_Tablero8.setBounds(100, 360, 80, 70);
-        getContentPane().add(Btn_Tablero9);
-        Btn_Tablero9.setBounds(190, 360, 80, 70);
-        getContentPane().add(Btn_Tablero10);
-        Btn_Tablero10.setBounds(280, 360, 80, 70);
-
-        Btn_Tablero11.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                Btn_Tablero11ActionPerformed(evt);
-            }
-        });
-        getContentPane().add(Btn_Tablero11);
-        Btn_Tablero11.setBounds(370, 360, 80, 70);
-        getContentPane().add(Btn_Tablero12);
-        Btn_Tablero12.setBounds(460, 360, 80, 70);
-        getContentPane().add(Btn_Tablero7);
-        Btn_Tablero7.setBounds(10, 360, 80, 70);
-        getContentPane().add(Btn_Tablero2);
-        Btn_Tablero2.setBounds(100, 440, 80, 70);
-        getContentPane().add(Btn_Tablero3);
-        Btn_Tablero3.setBounds(190, 440, 80, 70);
-        getContentPane().add(Btn_Tablero4);
-        Btn_Tablero4.setBounds(280, 440, 80, 70);
-        getContentPane().add(Btn_Tablero5);
-        Btn_Tablero5.setBounds(370, 440, 80, 70);
-        getContentPane().add(Btn_Tablero6);
-        Btn_Tablero6.setBounds(460, 440, 80, 70);
-        getContentPane().add(Btn_Tablero1);
-        Btn_Tablero1.setBounds(10, 440, 80, 70);
-        getContentPane().add(Btn_Tablero20);
-        Btn_Tablero20.setBounds(100, 200, 80, 70);
-        getContentPane().add(Btn_Tablero21);
-        Btn_Tablero21.setBounds(190, 200, 80, 70);
-        getContentPane().add(Btn_Tablero22);
-        Btn_Tablero22.setBounds(280, 200, 80, 70);
-        getContentPane().add(Btn_Tablero23);
-        Btn_Tablero23.setBounds(370, 200, 80, 70);
-        getContentPane().add(Btn_Tablero24);
-        Btn_Tablero24.setBounds(460, 200, 80, 70);
-        getContentPane().add(Btn_Tablero19);
-        Btn_Tablero19.setBounds(10, 200, 80, 70);
-        getContentPane().add(Btn_Tablero14);
-        Btn_Tablero14.setBounds(100, 280, 80, 70);
-        getContentPane().add(Btn_Tablero15);
-        Btn_Tablero15.setBounds(190, 280, 80, 70);
-        getContentPane().add(Btn_Tablero16);
-        Btn_Tablero16.setBounds(280, 280, 80, 70);
-
-        Btn_Tablero17.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                Btn_Tablero17ActionPerformed(evt);
-            }
-        });
-        getContentPane().add(Btn_Tablero17);
-        Btn_Tablero17.setBounds(370, 280, 80, 70);
-        getContentPane().add(Btn_Tablero18);
-        Btn_Tablero18.setBounds(460, 280, 80, 70);
-
-        Btn_Tablero13.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                Btn_Tablero13ActionPerformed(evt);
-            }
-        });
-        getContentPane().add(Btn_Tablero13);
-        Btn_Tablero13.setBounds(10, 280, 80, 70);
-        getContentPane().add(Btn_Tablero32);
-        Btn_Tablero32.setBounds(100, 40, 80, 70);
-        getContentPane().add(Btn_Tablero33);
-        Btn_Tablero33.setBounds(190, 40, 80, 70);
-
-        Btn_Tablero34.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                Btn_Tablero34ActionPerformed(evt);
-            }
-        });
-        getContentPane().add(Btn_Tablero34);
-        Btn_Tablero34.setBounds(280, 40, 80, 70);
-        getContentPane().add(Btn_Tablero35);
-        Btn_Tablero35.setBounds(370, 40, 80, 70);
-        getContentPane().add(Btn_Tablero36);
-        Btn_Tablero36.setBounds(460, 40, 80, 70);
-        getContentPane().add(Btn_Tablero31);
-        Btn_Tablero31.setBounds(10, 40, 80, 70);
-        getContentPane().add(Btn_Tablero26);
-        Btn_Tablero26.setBounds(100, 120, 80, 70);
-        getContentPane().add(Btn_Tablero27);
-        Btn_Tablero27.setBounds(190, 120, 80, 70);
-        getContentPane().add(Btn_Tablero28);
-        Btn_Tablero28.setBounds(280, 120, 80, 70);
-        getContentPane().add(Btn_Tablero29);
-        Btn_Tablero29.setBounds(370, 120, 80, 70);
-        getContentPane().add(Btn_Tablero30);
-        Btn_Tablero30.setBounds(460, 120, 80, 70);
-        getContentPane().add(Btn_Tablero25);
-        Btn_Tablero25.setBounds(10, 120, 80, 70);
 
         L_Turno.setFont(new java.awt.Font("Viner Hand ITC", 0, 24)); // NOI18N
         L_Turno.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -184,26 +119,665 @@ public class Tablero extends javax.swing.JFrame {
             }
         });
         getContentPane().add(Btn_Turno);
-        Btn_Turno.setBounds(590, 80, 73, 23);
+        Btn_Turno.setBounds(590, 80, 73, 35);
+
+        jToggleButton1.setText("jToggleButton1");
+        jToggleButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton1ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton1);
+        jToggleButton1.setBounds(460, 40, 80, 70);
+
+        jToggleButton2.setText("jToggleButton1");
+        jToggleButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton2ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton2);
+        jToggleButton2.setBounds(10, 40, 80, 70);
+
+        jToggleButton3.setText("jToggleButton1");
+        jToggleButton3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton3ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton3);
+        jToggleButton3.setBounds(100, 40, 80, 70);
+
+        jToggleButton4.setText("jToggleButton1");
+        jToggleButton4.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton4ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton4);
+        jToggleButton4.setBounds(190, 40, 80, 70);
+
+        jToggleButton5.setText("jToggleButton1");
+        jToggleButton5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton5ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton5);
+        jToggleButton5.setBounds(280, 40, 80, 70);
+
+        jToggleButton6.setText("jToggleButton1");
+        jToggleButton6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton6ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton6);
+        jToggleButton6.setBounds(370, 40, 80, 70);
+
+        jToggleButton7.setText("jToggleButton1");
+        jToggleButton7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton7ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton7);
+        jToggleButton7.setBounds(460, 120, 80, 70);
+
+        jToggleButton8.setText("jToggleButton1");
+        jToggleButton8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton8ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton8);
+        jToggleButton8.setBounds(10, 120, 80, 70);
+
+        jToggleButton9.setText("jToggleButton1");
+        jToggleButton9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton9ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton9);
+        jToggleButton9.setBounds(100, 120, 80, 70);
+
+        jToggleButton10.setText("jToggleButton1");
+        jToggleButton10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton10ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton10);
+        jToggleButton10.setBounds(190, 120, 80, 70);
+
+        jToggleButton11.setText("jToggleButton1");
+        jToggleButton11.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton11ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton11);
+        jToggleButton11.setBounds(280, 120, 80, 70);
+
+        jToggleButton12.setText("jToggleButton1");
+        jToggleButton12.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton12ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton12);
+        jToggleButton12.setBounds(370, 120, 80, 70);
+
+        L_Turno1.setFont(new java.awt.Font("Viner Hand ITC", 0, 24)); // NOI18N
+        L_Turno1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        L_Turno1.setText("Lobo");
+        L_Turno1.setToolTipText("");
+        getContentPane().add(L_Turno1);
+        L_Turno1.setBounds(560, 50, 130, 30);
+
+        jToggleButton13.setText("jToggleButton1");
+        jToggleButton13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton13ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton13);
+        jToggleButton13.setBounds(460, 40, 80, 70);
+
+        jToggleButton14.setText("jToggleButton1");
+        jToggleButton14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton14ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton14);
+        jToggleButton14.setBounds(10, 40, 80, 70);
+
+        jToggleButton15.setText("jToggleButton1");
+        jToggleButton15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton15ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton15);
+        jToggleButton15.setBounds(100, 40, 80, 70);
+
+        jToggleButton16.setText("jToggleButton1");
+        jToggleButton16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton16ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton16);
+        jToggleButton16.setBounds(190, 40, 80, 70);
+
+        jToggleButton17.setText("jToggleButton1");
+        jToggleButton17.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton17ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton17);
+        jToggleButton17.setBounds(280, 40, 80, 70);
+
+        jToggleButton18.setText("jToggleButton1");
+        jToggleButton18.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton18ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton18);
+        jToggleButton18.setBounds(370, 40, 80, 70);
+
+        jToggleButton19.setText("jToggleButton1");
+        jToggleButton19.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton19ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton19);
+        jToggleButton19.setBounds(460, 120, 80, 70);
+
+        jToggleButton20.setText("jToggleButton1");
+        jToggleButton20.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton20ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton20);
+        jToggleButton20.setBounds(10, 120, 80, 70);
+
+        jToggleButton21.setText("jToggleButton1");
+        jToggleButton21.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton21ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton21);
+        jToggleButton21.setBounds(100, 120, 80, 70);
+
+        jToggleButton22.setText("jToggleButton1");
+        jToggleButton22.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton22ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton22);
+        jToggleButton22.setBounds(190, 120, 80, 70);
+
+        jToggleButton23.setText("jToggleButton1");
+        jToggleButton23.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton23ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton23);
+        jToggleButton23.setBounds(280, 120, 80, 70);
+
+        jToggleButton24.setText("jToggleButton1");
+        jToggleButton24.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton24ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton24);
+        jToggleButton24.setBounds(370, 120, 80, 70);
+
+        jToggleButton25.setText("jToggleButton1");
+        jToggleButton25.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton25ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton25);
+        jToggleButton25.setBounds(460, 200, 80, 70);
+
+        jToggleButton26.setText("jToggleButton1");
+        jToggleButton26.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton26ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton26);
+        jToggleButton26.setBounds(10, 200, 80, 70);
+
+        jToggleButton27.setText("jToggleButton1");
+        jToggleButton27.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton27ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton27);
+        jToggleButton27.setBounds(100, 200, 80, 70);
+
+        jToggleButton28.setText("jToggleButton1");
+        jToggleButton28.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton28ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton28);
+        jToggleButton28.setBounds(190, 200, 80, 70);
+
+        jToggleButton29.setText("jToggleButton1");
+        jToggleButton29.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton29ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton29);
+        jToggleButton29.setBounds(280, 200, 80, 70);
+
+        jToggleButton30.setText("jToggleButton1");
+        jToggleButton30.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton30ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton30);
+        jToggleButton30.setBounds(370, 200, 80, 70);
+
+        jToggleButton31.setText("jToggleButton1");
+        jToggleButton31.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton31ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton31);
+        jToggleButton31.setBounds(460, 280, 80, 70);
+
+        jToggleButton32.setText("jToggleButton1");
+        jToggleButton32.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton32ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton32);
+        jToggleButton32.setBounds(10, 280, 80, 70);
+
+        jToggleButton33.setText("jToggleButton1");
+        jToggleButton33.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton33ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton33);
+        jToggleButton33.setBounds(100, 280, 80, 70);
+
+        jToggleButton34.setText("jToggleButton1");
+        jToggleButton34.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton34ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton34);
+        jToggleButton34.setBounds(190, 280, 80, 70);
+
+        jToggleButton35.setText("jToggleButton1");
+        jToggleButton35.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton35ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton35);
+        jToggleButton35.setBounds(280, 280, 80, 70);
+
+        jToggleButton36.setText("jToggleButton1");
+        jToggleButton36.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton36ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton36);
+        jToggleButton36.setBounds(370, 280, 80, 70);
+
+        jToggleButton37.setText("jToggleButton1");
+        jToggleButton37.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton37ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton37);
+        jToggleButton37.setBounds(460, 200, 80, 70);
+
+        jToggleButton38.setText("jToggleButton1");
+        jToggleButton38.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton38ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton38);
+        jToggleButton38.setBounds(10, 200, 80, 70);
+
+        jToggleButton39.setText("jToggleButton1");
+        jToggleButton39.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton39ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton39);
+        jToggleButton39.setBounds(100, 200, 80, 70);
+
+        jToggleButton40.setText("jToggleButton1");
+        jToggleButton40.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton40ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton40);
+        jToggleButton40.setBounds(190, 200, 80, 70);
+
+        jToggleButton41.setText("jToggleButton1");
+        jToggleButton41.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton41ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton41);
+        jToggleButton41.setBounds(280, 200, 80, 70);
+
+        jToggleButton42.setText("jToggleButton1");
+        jToggleButton42.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton42ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton42);
+        jToggleButton42.setBounds(370, 200, 80, 70);
+
+        jToggleButton43.setText("jToggleButton1");
+        jToggleButton43.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton43ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton43);
+        jToggleButton43.setBounds(460, 280, 80, 70);
+
+        jToggleButton44.setText("jToggleButton1");
+        jToggleButton44.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton44ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton44);
+        jToggleButton44.setBounds(10, 280, 80, 70);
+
+        jToggleButton45.setText("jToggleButton1");
+        jToggleButton45.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton45ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton45);
+        jToggleButton45.setBounds(100, 280, 80, 70);
+
+        jToggleButton46.setText("jToggleButton1");
+        jToggleButton46.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton46ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton46);
+        jToggleButton46.setBounds(190, 280, 80, 70);
+
+        jToggleButton47.setText("jToggleButton1");
+        jToggleButton47.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton47ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton47);
+        jToggleButton47.setBounds(280, 280, 80, 70);
+
+        jToggleButton48.setText("jToggleButton1");
+        jToggleButton48.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton48ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton48);
+        jToggleButton48.setBounds(370, 280, 80, 70);
+
+        jToggleButton49.setText("jToggleButton1");
+        jToggleButton49.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton49ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton49);
+        jToggleButton49.setBounds(460, 360, 80, 70);
+
+        jToggleButton50.setText("jToggleButton1");
+        jToggleButton50.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton50ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton50);
+        jToggleButton50.setBounds(10, 360, 80, 70);
+
+        jToggleButton51.setText("jToggleButton1");
+        jToggleButton51.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton51ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton51);
+        jToggleButton51.setBounds(100, 360, 80, 70);
+
+        jToggleButton52.setText("jToggleButton1");
+        jToggleButton52.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton52ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton52);
+        jToggleButton52.setBounds(190, 360, 80, 70);
+
+        jToggleButton53.setText("jToggleButton1");
+        jToggleButton53.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton53ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton53);
+        jToggleButton53.setBounds(280, 360, 80, 70);
+
+        jToggleButton54.setText("jToggleButton1");
+        jToggleButton54.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton54ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton54);
+        jToggleButton54.setBounds(370, 360, 80, 70);
+
+        jToggleButton55.setText("jToggleButton1");
+        jToggleButton55.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton55ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton55);
+        jToggleButton55.setBounds(460, 440, 80, 70);
+
+        jToggleButton56.setText("jToggleButton1");
+        jToggleButton56.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton56ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton56);
+        jToggleButton56.setBounds(10, 440, 80, 70);
+
+        jToggleButton57.setText("jToggleButton1");
+        jToggleButton57.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton57ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton57);
+        jToggleButton57.setBounds(100, 440, 80, 70);
+
+        jToggleButton58.setText("jToggleButton1");
+        jToggleButton58.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton58ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton58);
+        jToggleButton58.setBounds(190, 440, 80, 70);
+
+        jToggleButton59.setText("jToggleButton1");
+        jToggleButton59.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton59ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton59);
+        jToggleButton59.setBounds(280, 440, 80, 70);
+
+        jToggleButton60.setText("jToggleButton1");
+        jToggleButton60.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton60ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton60);
+        jToggleButton60.setBounds(370, 440, 80, 70);
+
+        jToggleButton61.setText("jToggleButton1");
+        jToggleButton61.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton61ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton61);
+        jToggleButton61.setBounds(460, 360, 80, 70);
+
+        jToggleButton62.setText("jToggleButton1");
+        jToggleButton62.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton62ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton62);
+        jToggleButton62.setBounds(10, 360, 80, 70);
+
+        jToggleButton63.setText("jToggleButton1");
+        jToggleButton63.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton63ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton63);
+        jToggleButton63.setBounds(100, 360, 80, 70);
+
+        jToggleButton64.setText("jToggleButton1");
+        jToggleButton64.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton64ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton64);
+        jToggleButton64.setBounds(190, 360, 80, 70);
+
+        jToggleButton65.setText("jToggleButton1");
+        jToggleButton65.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton65ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton65);
+        jToggleButton65.setBounds(280, 360, 80, 70);
+
+        jToggleButton66.setText("jToggleButton1");
+        jToggleButton66.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton66ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton66);
+        jToggleButton66.setBounds(370, 360, 80, 70);
+
+        jToggleButton67.setText("jToggleButton1");
+        jToggleButton67.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton67ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton67);
+        jToggleButton67.setBounds(460, 440, 80, 70);
+
+        jToggleButton68.setText("jToggleButton1");
+        jToggleButton68.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton68ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton68);
+        jToggleButton68.setBounds(10, 440, 80, 70);
+
+        jToggleButton69.setText("jToggleButton1");
+        jToggleButton69.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton69ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton69);
+        jToggleButton69.setBounds(100, 440, 80, 70);
+
+        jToggleButton70.setText("jToggleButton1");
+        jToggleButton70.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton70ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton70);
+        jToggleButton70.setBounds(190, 440, 80, 70);
+
+        jToggleButton71.setText("jToggleButton1");
+        jToggleButton71.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton71ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton71);
+        jToggleButton71.setBounds(280, 440, 80, 70);
+
+        jToggleButton72.setText("jToggleButton1");
+        jToggleButton72.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton72ActionPerformed(evt);
+            }
+        });
+        getContentPane().add(jToggleButton72);
+        jToggleButton72.setBounds(370, 440, 80, 70);
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
-    private void Btn_Tablero34ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_Tablero34ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_Btn_Tablero34ActionPerformed
-
-    private void Btn_Tablero11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_Tablero11ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_Btn_Tablero11ActionPerformed
-
-    private void Btn_Tablero17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_Tablero17ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_Btn_Tablero17ActionPerformed
-
-    private void Btn_Tablero13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_Tablero13ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_Btn_Tablero13ActionPerformed
 
     private void Btn_TurnoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_TurnoActionPerformed
         // TODO add your handling code here:
@@ -226,10 +800,293 @@ public class Tablero extends javax.swing.JFrame {
       
     }//GEN-LAST:event_Btn_TurnoActionPerformed
 
-    private void Btn_Tablero8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_Tablero8ActionPerformed
+    private void jToggleButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton1ActionPerformed
         // TODO add your handling code here:
-        
-    }//GEN-LAST:event_Btn_Tablero8ActionPerformed
+    }//GEN-LAST:event_jToggleButton1ActionPerformed
+
+    private void jToggleButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton2ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton2ActionPerformed
+
+    private void jToggleButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton3ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton3ActionPerformed
+
+    private void jToggleButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton4ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton4ActionPerformed
+
+    private void jToggleButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton5ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton5ActionPerformed
+
+    private void jToggleButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton6ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton6ActionPerformed
+
+    private void jToggleButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton7ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton7ActionPerformed
+
+    private void jToggleButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton8ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton8ActionPerformed
+
+    private void jToggleButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton9ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton9ActionPerformed
+
+    private void jToggleButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton10ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton10ActionPerformed
+
+    private void jToggleButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton11ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton11ActionPerformed
+
+    private void jToggleButton12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton12ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton12ActionPerformed
+
+    private void jToggleButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton13ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton13ActionPerformed
+
+    private void jToggleButton14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton14ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton14ActionPerformed
+
+    private void jToggleButton15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton15ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton15ActionPerformed
+
+    private void jToggleButton16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton16ActionPerformed
+
+    private void jToggleButton17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton17ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton17ActionPerformed
+
+    private void jToggleButton18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton18ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton18ActionPerformed
+
+    private void jToggleButton19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton19ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton19ActionPerformed
+
+    private void jToggleButton20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton20ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton20ActionPerformed
+
+    private void jToggleButton21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton21ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton21ActionPerformed
+
+    private void jToggleButton22ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton22ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton22ActionPerformed
+
+    private void jToggleButton23ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton23ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton23ActionPerformed
+
+    private void jToggleButton24ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton24ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton24ActionPerformed
+
+    private void jToggleButton25ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton25ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton25ActionPerformed
+
+    private void jToggleButton26ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton26ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton26ActionPerformed
+
+    private void jToggleButton27ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton27ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton27ActionPerformed
+
+    private void jToggleButton28ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton28ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton28ActionPerformed
+
+    private void jToggleButton29ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton29ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton29ActionPerformed
+
+    private void jToggleButton30ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton30ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton30ActionPerformed
+
+    private void jToggleButton31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton31ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton31ActionPerformed
+
+    private void jToggleButton32ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton32ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton32ActionPerformed
+
+    private void jToggleButton33ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton33ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton33ActionPerformed
+
+    private void jToggleButton34ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton34ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton34ActionPerformed
+
+    private void jToggleButton35ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton35ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton35ActionPerformed
+
+    private void jToggleButton36ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton36ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton36ActionPerformed
+
+    private void jToggleButton37ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton37ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton37ActionPerformed
+
+    private void jToggleButton38ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton38ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton38ActionPerformed
+
+    private void jToggleButton39ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton39ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton39ActionPerformed
+
+    private void jToggleButton40ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton40ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton40ActionPerformed
+
+    private void jToggleButton41ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton41ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton41ActionPerformed
+
+    private void jToggleButton42ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton42ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton42ActionPerformed
+
+    private void jToggleButton43ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton43ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton43ActionPerformed
+
+    private void jToggleButton44ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton44ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton44ActionPerformed
+
+    private void jToggleButton45ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton45ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton45ActionPerformed
+
+    private void jToggleButton46ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton46ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton46ActionPerformed
+
+    private void jToggleButton47ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton47ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton47ActionPerformed
+
+    private void jToggleButton48ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton48ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton48ActionPerformed
+
+    private void jToggleButton49ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton49ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton49ActionPerformed
+
+    private void jToggleButton50ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton50ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton50ActionPerformed
+
+    private void jToggleButton51ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton51ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton51ActionPerformed
+
+    private void jToggleButton52ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton52ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton52ActionPerformed
+
+    private void jToggleButton53ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton53ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton53ActionPerformed
+
+    private void jToggleButton54ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton54ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton54ActionPerformed
+
+    private void jToggleButton55ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton55ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton55ActionPerformed
+
+    private void jToggleButton56ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton56ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton56ActionPerformed
+
+    private void jToggleButton57ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton57ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton57ActionPerformed
+
+    private void jToggleButton58ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton58ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton58ActionPerformed
+
+    private void jToggleButton59ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton59ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton59ActionPerformed
+
+    private void jToggleButton60ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton60ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton60ActionPerformed
+
+    private void jToggleButton61ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton61ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton61ActionPerformed
+
+    private void jToggleButton62ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton62ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton62ActionPerformed
+
+    private void jToggleButton63ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton63ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton63ActionPerformed
+
+    private void jToggleButton64ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton64ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton64ActionPerformed
+
+    private void jToggleButton65ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton65ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton65ActionPerformed
+
+    private void jToggleButton66ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton66ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton66ActionPerformed
+
+    private void jToggleButton67ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton67ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton67ActionPerformed
+
+    private void jToggleButton68ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton68ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton68ActionPerformed
+
+    private void jToggleButton69ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton69ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton69ActionPerformed
+
+    private void jToggleButton70ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton70ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton70ActionPerformed
+
+    private void jToggleButton71ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton71ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton71ActionPerformed
+
+    private void jToggleButton72ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton72ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton72ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -267,43 +1124,80 @@ public class Tablero extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton Btn_Tablero1;
-    private javax.swing.JButton Btn_Tablero10;
-    private javax.swing.JButton Btn_Tablero11;
-    private javax.swing.JButton Btn_Tablero12;
-    private javax.swing.JButton Btn_Tablero13;
-    private javax.swing.JButton Btn_Tablero14;
-    private javax.swing.JButton Btn_Tablero15;
-    private javax.swing.JButton Btn_Tablero16;
-    private javax.swing.JButton Btn_Tablero17;
-    private javax.swing.JButton Btn_Tablero18;
-    private javax.swing.JButton Btn_Tablero19;
-    private javax.swing.JButton Btn_Tablero2;
-    private javax.swing.JButton Btn_Tablero20;
-    private javax.swing.JButton Btn_Tablero21;
-    private javax.swing.JButton Btn_Tablero22;
-    private javax.swing.JButton Btn_Tablero23;
-    private javax.swing.JButton Btn_Tablero24;
-    private javax.swing.JButton Btn_Tablero25;
-    private javax.swing.JButton Btn_Tablero26;
-    private javax.swing.JButton Btn_Tablero27;
-    private javax.swing.JButton Btn_Tablero28;
-    private javax.swing.JButton Btn_Tablero29;
-    private javax.swing.JButton Btn_Tablero3;
-    private javax.swing.JButton Btn_Tablero30;
-    private javax.swing.JButton Btn_Tablero31;
-    private javax.swing.JButton Btn_Tablero32;
-    private javax.swing.JButton Btn_Tablero33;
-    private javax.swing.JButton Btn_Tablero34;
-    private javax.swing.JButton Btn_Tablero35;
-    private javax.swing.JButton Btn_Tablero36;
-    private javax.swing.JButton Btn_Tablero4;
-    private javax.swing.JButton Btn_Tablero5;
-    private javax.swing.JButton Btn_Tablero6;
-    private javax.swing.JButton Btn_Tablero7;
-    private javax.swing.JButton Btn_Tablero8;
-    private javax.swing.JButton Btn_Tablero9;
     private javax.swing.JButton Btn_Turno;
     private javax.swing.JLabel L_Turno;
+    private javax.swing.JLabel L_Turno1;
+    private javax.swing.JToggleButton jToggleButton1;
+    private javax.swing.JToggleButton jToggleButton10;
+    private javax.swing.JToggleButton jToggleButton11;
+    private javax.swing.JToggleButton jToggleButton12;
+    private javax.swing.JToggleButton jToggleButton13;
+    private javax.swing.JToggleButton jToggleButton14;
+    private javax.swing.JToggleButton jToggleButton15;
+    private javax.swing.JToggleButton jToggleButton16;
+    private javax.swing.JToggleButton jToggleButton17;
+    private javax.swing.JToggleButton jToggleButton18;
+    private javax.swing.JToggleButton jToggleButton19;
+    private javax.swing.JToggleButton jToggleButton2;
+    private javax.swing.JToggleButton jToggleButton20;
+    private javax.swing.JToggleButton jToggleButton21;
+    private javax.swing.JToggleButton jToggleButton22;
+    private javax.swing.JToggleButton jToggleButton23;
+    private javax.swing.JToggleButton jToggleButton24;
+    private javax.swing.JToggleButton jToggleButton25;
+    private javax.swing.JToggleButton jToggleButton26;
+    private javax.swing.JToggleButton jToggleButton27;
+    private javax.swing.JToggleButton jToggleButton28;
+    private javax.swing.JToggleButton jToggleButton29;
+    private javax.swing.JToggleButton jToggleButton3;
+    private javax.swing.JToggleButton jToggleButton30;
+    private javax.swing.JToggleButton jToggleButton31;
+    private javax.swing.JToggleButton jToggleButton32;
+    private javax.swing.JToggleButton jToggleButton33;
+    private javax.swing.JToggleButton jToggleButton34;
+    private javax.swing.JToggleButton jToggleButton35;
+    private javax.swing.JToggleButton jToggleButton36;
+    private javax.swing.JToggleButton jToggleButton37;
+    private javax.swing.JToggleButton jToggleButton38;
+    private javax.swing.JToggleButton jToggleButton39;
+    private javax.swing.JToggleButton jToggleButton4;
+    private javax.swing.JToggleButton jToggleButton40;
+    private javax.swing.JToggleButton jToggleButton41;
+    private javax.swing.JToggleButton jToggleButton42;
+    private javax.swing.JToggleButton jToggleButton43;
+    private javax.swing.JToggleButton jToggleButton44;
+    private javax.swing.JToggleButton jToggleButton45;
+    private javax.swing.JToggleButton jToggleButton46;
+    private javax.swing.JToggleButton jToggleButton47;
+    private javax.swing.JToggleButton jToggleButton48;
+    private javax.swing.JToggleButton jToggleButton49;
+    private javax.swing.JToggleButton jToggleButton5;
+    private javax.swing.JToggleButton jToggleButton50;
+    private javax.swing.JToggleButton jToggleButton51;
+    private javax.swing.JToggleButton jToggleButton52;
+    private javax.swing.JToggleButton jToggleButton53;
+    private javax.swing.JToggleButton jToggleButton54;
+    private javax.swing.JToggleButton jToggleButton55;
+    private javax.swing.JToggleButton jToggleButton56;
+    private javax.swing.JToggleButton jToggleButton57;
+    private javax.swing.JToggleButton jToggleButton58;
+    private javax.swing.JToggleButton jToggleButton59;
+    private javax.swing.JToggleButton jToggleButton6;
+    private javax.swing.JToggleButton jToggleButton60;
+    private javax.swing.JToggleButton jToggleButton61;
+    private javax.swing.JToggleButton jToggleButton62;
+    private javax.swing.JToggleButton jToggleButton63;
+    private javax.swing.JToggleButton jToggleButton64;
+    private javax.swing.JToggleButton jToggleButton65;
+    private javax.swing.JToggleButton jToggleButton66;
+    private javax.swing.JToggleButton jToggleButton67;
+    private javax.swing.JToggleButton jToggleButton68;
+    private javax.swing.JToggleButton jToggleButton69;
+    private javax.swing.JToggleButton jToggleButton7;
+    private javax.swing.JToggleButton jToggleButton70;
+    private javax.swing.JToggleButton jToggleButton71;
+    private javax.swing.JToggleButton jToggleButton72;
+    private javax.swing.JToggleButton jToggleButton8;
+    private javax.swing.JToggleButton jToggleButton9;
     // End of variables declaration//GEN-END:variables
 }
